@@ -53,5 +53,8 @@ This notebook is highly recommended to be used on **Google Colab** due to its se
 NeuroImg2PNG simplifies the conversion of neuroimaging files, making it accessible and efficient for researchers and practitioners. By integrating cloud-based tools, this project ensures that you can handle large datasets with ease and minimal resource usage.
 
 ---
+## Stay in Touch 📬
+Thank you for using NeuroImg2PNG! If you have any questions or need any more help, please feel free to reach out.
 
-Thank you for using NeuroImg2PNG! If you have any questions or need further assistance, please feel free to reach out.
+[https://www.linkedin.com/in/youssef-mohammad-9341a71a7?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bv9IaR6wuSWawwmi8p2Kjjg%3D%3D
+](https://shorturl.at/nQqEd)
